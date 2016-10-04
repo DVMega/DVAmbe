@@ -1,0 +1,20 @@
+DV-AMBE version 00.01A
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Library General Public
+ License as published by the Free Software Foundation; either
+ version 2 of the License, or (at your option) any later version.
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Library General Public License for more details.
+ You should have received a copy of the GNU Library General Public
+ License along with this library; if not, write to the
+ Free Software Foundation, Inc., 51 Franklin St, Fifth Floor,
+ Boston, MA  02110-1301, USA.
+ Authors: 
+ Guus van Dooren, PE1PLM via E-mail : info@auria.nl
+ Rudy Hardeman, PD0ZRY pd0zry at pd0zry.nl
+ Special tnx to:
+ G4KLX for MMDVMHost
+ Nonoo for parts of dmr.cpp and helping getting the code to contruct a good Full LC header
+ PD0MZ for parts of dmr.cpp
