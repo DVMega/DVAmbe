@@ -11,3 +11,8 @@ Required software
 
 Hardware modification:
  A header needs to be added to the AMBE shield to connect the Nextion display to Serial1 on the arduino
+
+Supported modes:
+ * DMR
+
+More modes will be added in the feature.
