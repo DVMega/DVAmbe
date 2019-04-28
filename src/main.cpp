@@ -94,8 +94,8 @@ void setup(void)
     Serial3.write(0x6F);
     Serial3.write(0x48);
 
-    delay(500);
-
+    delay(250);
+    delay(250);
     uint32_t dst_id = 2043044;
     uint32_t src_id = 2043088;
 
